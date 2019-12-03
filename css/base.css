@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+p{
+  border: 1px black solid;
+  text-align: center;
+}

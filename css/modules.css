@@ -1,0 +1,120 @@
+@media only screen and (max-width: 767px){
+ #a{
+  height: 75px;
+  line-height: 75px;
+  background: rgb(94, 185, 94);
+ }
+ #b{
+  height: 150px;
+  line-height: 150px;
+  background: rgb(115, 115, 219);
+ }
+ #c{
+  height: 125px;
+  line-height: 125px;
+  background: rgb(218, 117, 117);
+ }
+ #d{
+  height: 125px;
+  line-height: 125px;
+  background: rgb(255, 255, 133);
+ }
+ #e{
+  width: 240px;
+  height: 250px;
+  line-height: 250px;
+  float: left;
+  background: rgb(94, 185, 94);
+ }
+ #f{
+  width: 240px;
+  height: 250px;
+  line-height: 250px;
+  float: right;
+  background: rgb(115, 115, 219);
+ }
+ #g{
+  width: 240px;
+  height: 250px;
+  line-height: 250px;
+  float: left;
+  background: rgb(218, 117, 117);
+ }
+ #h{
+  width: 240px;
+  height: 250px;
+  line-height: 250px;
+  float: right;
+  background: rgb(255, 255, 133);
+ }
+ #i{
+  height: 80px;
+  line-height: 80px;
+  clear: both;
+  background: rgb(94, 185, 94);
+ }
+}
+@media only screen and (min-width: 768px){
+  #a{
+    width: 960px;
+    height: 100px;
+    line-height: 100px;
+    background: rgb(233, 212, 120);
+   }
+   #b{
+    width: 200px;
+    height: 600px;
+    line-height: 600px;
+    float: left;
+    background: rgb(115, 195, 219);
+   }
+   #c{
+    width: 380px;
+    height: 200px;
+    line-height: 200px;
+    float: right;
+    background: rgb(255, 179, 179);
+   }
+   #d{
+    width: 380px;
+    height: 200px;
+    line-height: 200px;
+    float: right;
+    background: rgb(212, 255, 133);
+   }
+   #e{
+    width: 190px;
+    height: 250px;
+    line-height: 250px;
+    float:right;
+    background: rgb(233, 212, 120);   }
+   #f{
+    width: 190px;
+    height: 250px;
+    line-height: 250px;
+    float:right;
+    background: rgb(115, 195, 219);
+   }
+   #g{
+    width: 190px;
+    height: 250px;
+    line-height: 250px;
+    float:right;
+    background: rgb(255, 179, 179);
+   }
+   #h{
+    width: 190px;
+    height: 250px;
+    line-height: 250px;
+    float:right;
+    background: rgb(212, 255, 133);
+   }
+   #i{
+    width: 760px;
+    height: 150px;
+    line-height: 150px;
+    clear: right;
+    float: right;
+    background: rgb(233, 212, 120);
+    }
+  }
