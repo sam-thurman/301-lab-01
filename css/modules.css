@@ -72,14 +72,14 @@
     width: 380px;
     height: 200px;
     line-height: 200px;
-    float: right;
+    float: left;
     background: rgb(255, 179, 179);
    }
    #d{
     width: 380px;
     height: 200px;
     line-height: 200px;
-    float: right;
+    float: left;
     background: rgb(212, 255, 133);
    }
    #e{
